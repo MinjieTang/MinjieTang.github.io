@@ -28,7 +28,7 @@ His research interests lie at the intersection of wireless communication systems
 # 📝 Publications 
 
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Remote State Estimation With Asynchronous Mission-Critical IoT Sensors](https://ieeexplore.ieee.org/abstract/document/9174850)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
