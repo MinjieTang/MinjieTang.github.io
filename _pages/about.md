@@ -27,10 +27,15 @@ His research interests lie at the intersection of wireless communication systems
 
 # 📝 Publications 
 
+Online Identification and Temperature Tracking Control for Furnace System With a Single Slab and a Single Heater Over the Wirelessly-Connected IoT Controller
 
-[Remote State Estimation With Asynchronous Mission-Critical IoT Sensors](https://ieeexplore.ieee.org/abstract/document/9174850)
+
+
+[[J1]Remote State Estimation With Asynchronous Mission-Critical IoT Sensors](https://ieeexplore.ieee.org/abstract/document/9174850)
 
 **Minjie Tang**, Songfu Cai, Vincent K. N. Lau, ***IEEE Journal on Selected Areas in Communications***, vol. 39, no. 3, pp. 835-850, 2021.
+
+
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
