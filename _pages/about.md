@@ -17,11 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Minjie Tang is currently a Postdoctoral Research Fellow in the Communication Systems Department at <a href='https://www.eurecom.fr/'>EURECOM</a> under the supervision of Prof. Fotios Stavrou and Prof. Marios Kountouris. Prior to that, he obtained his Ph.D. degree in electronic and computer engineering from the Hong Kong University of Science and Technology in 2024 under the supervision of Prof. Vincent K. N. Lau, and B.Sc. in information and communication engineering from the Huazhong University of Science and Technology in 2018.
+Minjie Tang is currently a Postdoctoral Research Fellow in the Communication Systems Department at <a href='https://www.eurecom.fr/'>EURECOM</a> under the supervision of <a href='http://photios-stavrou.com/'>Prof. Fotios Stavrou</a> and <a href='https://scholar.google.com/citations?user=QG9iXtUAAAAJ&hl=en'>Prof. Marios Kountouris</a>. Prior to that, he obtained his Ph.D. degree in electronic and computer engineering from the <a href='https://hkust.edu.hk/'>Hong Kong University of Science and Technology</a> in 2024 under the supervision of <a href='https://eeknlau.home.ece.ust.hk/HKUST-Office-HomePage/HKUST_Home.html'>Prof. Vincent K. N. Lau</a>, and B.Sc. in information and communication engineering from the <a href='https://hust.edu.cn/'>Huazhong University of Science and Technology</a> in 2018.
 
-
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+His research interests lie at the intersection of wireless communication systems and control systems, encompassing areas such as networked control systems, wireless sensing, and industrial IoT. Currently, his research focuses on goal-oriented communications for control, data-driven control, and reinforcement learning.
 
 
 # 🔥 News
