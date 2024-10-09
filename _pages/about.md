@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Minjie Tang is currently a Postdoctoral Research Fellow in the Communication Systems Department at <a href='https://www.eurecom.fr/'>EURECOM under the supervision of Prof. Fotios Stavrou and Prof. Marios Kountouris. Prior to that, he obtained his Ph.D. degree in electronic and computer engineering from the Hong Kong University of Science and Technology in 2024 under the supervision of Prof. Vincent K. N. Lau, and B.Sc. in information and communication engineering from the Huazhong University of Science and Technology in 2018.
+Minjie Tang is currently a Postdoctoral Research Fellow in the Communication Systems Department at <a href='https://www.eurecom.fr/'>EURECOM</a> under the supervision of Prof. Fotios Stavrou and Prof. Marios Kountouris. Prior to that, he obtained his Ph.D. degree in electronic and computer engineering from the Hong Kong University of Science and Technology in 2024 under the supervision of Prof. Vincent K. N. Lau, and B.Sc. in information and communication engineering from the Huazhong University of Science and Technology in 2018.
 
 
 
