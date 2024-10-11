@@ -38,12 +38,19 @@ His research interests lie at the intersection of wireless communication systems
 **Minjie Tang**, Songfu Cai, Vincent K. N. Lau, **IEEE Transactions on Automatic Control (Full Paper)**, vol. 68, no. 30, pp. 6020-6035, 2023.
 
 
+[[J3] Online System Identification and Optimal Control for Mission-critical IoT Systems over MIMO Fading Channels](https://ieeexplore.ieee.org/abstract/document/9777769)
+
+**Minjie Tang**, Songfu Cai, Vincent K. N. Lau, **IEEE Internet of Things Journal**, vol. 9, no. 21, pp. 21157-21173, 2022.
 
 
 
-[[J3] Remote State Estimation With Asynchronous Mission-Critical IoT Sensors](https://ieeexplore.ieee.org/abstract/document/9174850)
+
+[[J4] Remote State Estimation With Asynchronous Mission-Critical IoT Sensors](https://ieeexplore.ieee.org/abstract/document/9174850)
 
 **Minjie Tang**, Songfu Cai, Vincent K. N. Lau, **IEEE Journal on Selected Areas in Communications**, vol. 39, no. 3, pp. 835-850, 2021.
+
+
+
 
 
 
