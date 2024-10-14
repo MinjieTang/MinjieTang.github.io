@@ -27,7 +27,7 @@ His research interests lie at the intersection of wireless communication systems
 
 
 
-# 📝 Publications (Journal Papers)
+# 📝 Publications 
 
 
 [[J1] Online Identification and Temperature Tracking Control for Furnace System With a Single Slab and a Single Heater Over the Wirelessly-Connected IoT Controller](https://ieeexplore.ieee.org/abstract/document/10239511)
@@ -64,10 +64,6 @@ His research interests lie at the intersection of wireless communication systems
 [[J7] Remote State Estimation With Asynchronous Mission-Critical IoT Sensors](https://ieeexplore.ieee.org/abstract/document/9174850)
 
 **Minjie Tang**, Songfu Cai, Vincent K. N. Lau, **IEEE Journal on Selected Areas in Communications**, vol. 39, no. 3, pp. 835-850, 2021.
-
-
-
-# 📝 Publications (Conference Papers)
 
 [[C1] Online Learning Algorithms for Zero-Sum Games of Linear Systems over Wireless MIMO Fading Channels with Uncountable State Space](https://ieeexplore.ieee.org/abstract/document/10383297)
 
