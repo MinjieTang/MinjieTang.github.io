@@ -25,7 +25,9 @@ His research interests lie at the intersection of wireless communication systems
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 I joined the EURECOM as a Postdocotral Research Fellow to conduct research in goal-oriented communications for control, data-driven control, and reinforcement learning.
 
-# 📝 Publications 
+
+
+# 📝 Publications (Journal Papers)
 
 
 [[J1] Online Identification and Temperature Tracking Control for Furnace System With a Single Slab and a Single Heater Over the Wirelessly-Connected IoT Controller](https://ieeexplore.ieee.org/abstract/document/10239511)
@@ -44,13 +46,32 @@ His research interests lie at the intersection of wireless communication systems
 
 
 
+[[J4] Radix-Partition-Based Over-the-Air Aggregation and Low-Complexity State Estimation for IoT Systems Over Wireless Fading Channels](https://ieeexplore.ieee.org/abstract/document/9735326)
 
-[[J4] Remote State Estimation With Asynchronous Mission-Critical IoT Sensors](https://ieeexplore.ieee.org/abstract/document/9174850)
+**Minjie Tang**, Songfu Cai, Vincent K. N. Lau, **IEEE Transactions on Signal Processing**, vol. 70, pp. 1464-1477, 2022.
+
+
+[[J5] Decentralized Event-Triggered Scheduling and Control for Multi-Agent Linear Systems over Wireless Interference Channels](https://ieeexplore.ieee.org/abstract/document/9720089)
+
+**Minjie Tang**, Vincent K. N. Lau, **IEEE Transactions on Control of Network Systems**, vol. 9, no. 3, pp. 1348-1361, 2022.
+
+
+[[J6] Over-the-air aggregation with multiple shared channels and graph-based state estimation for industrial IoT systems](https://ieeexplore.ieee.org/abstract/document/9395697)
+
+**Minjie Tang**, Songfu Cai, Vincent K. N. Lau, **IEEE Internet of Things Journal**, vol. 8, no. 19, pp. 14638-14657, 2021.
+
+
+[[J7] Remote State Estimation With Asynchronous Mission-Critical IoT Sensors](https://ieeexplore.ieee.org/abstract/document/9174850)
 
 **Minjie Tang**, Songfu Cai, Vincent K. N. Lau, **IEEE Journal on Selected Areas in Communications**, vol. 39, no. 3, pp. 835-850, 2021.
 
 
 
+# 📝 Publications (Conference Papers)
+
+[[C1] Online Learning Algorithms for Zero-Sum Games of Linear Systems over Wireless MIMO Fading Channels with Uncountable State Space](https://ieeexplore.ieee.org/abstract/document/10383297)
+
+**Minjie Tang**,  Vincent K. N. Lau, **IEEE Conference on Decision and Control (CDC)**,  2023.
 
 
 
