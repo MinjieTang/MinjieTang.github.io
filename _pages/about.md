@@ -74,13 +74,14 @@ His research interests lie at the intersection of wireless communication systems
 **Minjie Tang**,  Vincent K. N. Lau, **IEEE Conference on Decision and Control (CDC)**,  2023.
 
 
+# 📝 Selected Projects 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- *2020.2-2021.2* IoT PHY-MAC Design for Industrial Control Applications, Huawei
+- *2021.2-2023.2*  Research and Industrialization of Intelligent Ceramic Production Line Management and Analysis Platform: Topic #2: Information and Control Systems in Industrial IoT: Design and Optimization, Foshan Government, China
+- *2024.9-* 6G-GOALS, EU Consortium project  
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
