@@ -83,13 +83,20 @@ His research interests lie at the intersection of wireless communication systems
 
 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Selected Honors
+
+- *2016-2017* National Scholarship, Department of Education, China
+- *2017-2018*  National Scholarship, Department of Education, China
+- *2016-2017* Merit Student, Huazhong University of Science and Technology
+- *2017-2018* Merit Student, Huazhong University of Science and Technology
+- *2017-2018* Outstanding Student, Qiming College, Huazhong University of Science and Technology
+- *2018* Outstanding Graduate, Huazhong University of Science and Technology
+- *2018-2024* Ph.D. Scholarship, Hong Kong University of Science and Technology
+- 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2014.09 - 2018.06*, B.Eng. , information and communication engineering, Huazhong University of Science and Technology
+- *2018.08 - 2024.08*, Ph.D. , electronic and computer engineering, Hong Kong University of Science and Technology
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
