@@ -26,7 +26,7 @@ His research interests lie at the intersection of wireless communication systems
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 I joined the EURECOM as a Postdocotral Research Fellow to conduct research in goal-oriented communications for control, data-driven control, and reinforcement learning.
+- *2024.09*: &nbsp;🎉🎉 I joined the EURECOM as a Postdoctoral Research Fellow to conduct research in goal-oriented communications for control, data-driven control, and reinforcement learning.
 
 
 
