@@ -21,6 +21,9 @@ Minjie Tang is currently a Postdoctoral Research Fellow in the Communication Sys
 
 His research interests lie at the intersection of wireless communication systems and control systems, encompassing areas such as networked control systems, wireless sensing, and industrial IoT. Currently, his research focuses on goal-oriented communications for control, data-driven control, and reinforcement learning.
 
+***I warmly welcome opportunities for collaboration***If you are interested in my research and would like to explore potential collaborations, please don't hesitate to contact me at Minjie.Tang@eurecom.fr.
+
+<span style="color:red;">This text will appear red.</span>
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 I joined the EURECOM as a Postdocotral Research Fellow to conduct research in goal-oriented communications for control, data-driven control, and reinforcement learning.
