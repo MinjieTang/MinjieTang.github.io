@@ -94,9 +94,16 @@ His research interests lie at the intersection of wireless communication systems
 - *2014.09 - 2018.06*, B.Eng. , information and communication engineering, Huazhong University of Science and Technology
 - *2018.08 - 2024.08*, Ph.D. , electronic and computer engineering, Hong Kong University of Science and Technology
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Academic Service
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+I am currently actively serving as a regular reviewer for various top-tier journals and conferences  in communications, control, and IoT. Some are listed below:
+- IEEE Journal on Selected Areas in Communications
+- IEEE Transactions on Signal Processing
+- IEEE Transactions on Control of Network Systems
+- IEEE Internet of Things Journal
+- Applied Science
+- IEEE Conference on Decision and Control (CDC)
+- European Control Conference (ECC)
+
+
+
