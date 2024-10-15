@@ -91,7 +91,7 @@ His research interests lie at the intersection of wireless communication systems
 - *2017-2018* Outstanding Student, Qiming College, Huazhong University of Science and Technology
 - *2018* Outstanding Graduate, Huazhong University of Science and Technology
 - *2018-2024* Ph.D. Scholarship, Hong Kong University of Science and Technology
-- 
+
 
 # 📖 Educations
 - *2014.09 - 2018.06*, B.Eng. , information and communication engineering, Huazhong University of Science and Technology
