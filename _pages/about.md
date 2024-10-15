@@ -79,7 +79,7 @@ His research interests lie at the intersection of wireless communication systems
 
 
 
-# 🎖 Honors
+# 🎖 Honors and Award
 
 - *2016-2017* National Scholarship, Department of Education, China
 - *2017-2018*  National Scholarship, Department of Education, China
