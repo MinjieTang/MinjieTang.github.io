@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-# About Me
+# About Myself
 Minjie Tang is currently a Postdoctoral Research Fellow in the Communication Systems Department at <a href='https://www.eurecom.fr/'>EURECOM</a> under the supervision of <a href='http://photios-stavrou.com/'>Prof. Fotios Stavrou</a> and <a href='https://scholar.google.com/citations?user=QG9iXtUAAAAJ&hl=en'>Prof. Marios Kountouris</a>. Prior to that, he obtained his Ph.D. degree in electronic and computer engineering from the <a href='https://hkust.edu.hk/'>Hong Kong University of Science and Technology</a> in 2024 under the supervision of <a href='https://eeknlau.home.ece.ust.hk/HKUST-Office-HomePage/HKUST_Home.html'>Prof. Vincent K. N. Lau</a>, and B.Eng. in information and communication engineering from the <a href='https://hust.edu.cn/'>Huazhong University of Science and Technology</a> in 2018.
 
 His research interests lie at the intersection of wireless communication systems and control systems, encompassing areas such as networked control systems, wireless sensing, and industrial IoT. Currently, his research focuses on goal-oriented communications for control, data-driven control, and reinforcement learning.
