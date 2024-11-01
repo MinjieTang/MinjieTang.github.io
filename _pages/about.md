@@ -105,6 +105,9 @@ His research interests lie at the intersection of wireless communication systems
   
 - *2018-2024* Ph.D. Scholarship, Hong Kong University of Science and Technology
 
+
+  
+
 # 📝 Recent Talks 
 
 - *2024.11* Reinforcement Learning in Communications and Control, EURECOM, France.
