@@ -100,7 +100,7 @@ His research interests lie at the intersection of wireless communication systems
 - *2024.11* Reinforcement Learning in Communications and Control, EURECOM, France.
 - *2024.10* Semantic Communications for Control, WP4 Meeting, 6G-GOALS project, EURECOM, France.
 - *2024.3* Remote State Estimation and Control for IoT Systems, ECE Future Leader Seminar, HKUST, Hong Kong, China.
-
+- *2023.12* Online Learning Algorithms for Zero-Sum Games of Linear Systems over Wireless MIMO Fading Channels with Uncountable State Space, IEEE Conference on Decision and Control, Marina Bay Sands, Singapore.
 
 
 # 📖 Educations
