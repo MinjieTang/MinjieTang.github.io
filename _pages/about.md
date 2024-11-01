@@ -17,6 +17,7 @@ redirect_from:
 
 
 # About Me
+
 Minjie Tang is currently a Postdoctoral Research Fellow in the Communication Systems Department at <a href='https://www.eurecom.fr/'>EURECOM</a> under the supervision of <a href='http://photios-stavrou.com/'>Prof. Fotios Stavrou</a> and <a href='https://scholar.google.com/citations?user=QG9iXtUAAAAJ&hl=en'>Prof. Marios Kountouris</a>. Prior to that, he obtained his Ph.D. degree in electronic and computer engineering from the <a href='https://hkust.edu.hk/'>Hong Kong University of Science and Technology</a> in 2024 under the supervision of <a href='https://eeknlau.home.ece.ust.hk/HKUST-Office-HomePage/HKUST_Home.html'>Prof. Vincent K. N. Lau</a>, and B.Eng. in information and communication engineering from the <a href='https://hust.edu.cn/'>Huazhong University of Science and Technology</a> in 2018.
 
 His research interests lie at the intersection of wireless communication systems and control systems, encompassing areas such as networked control systems, wireless sensing, and industrial IoT. Currently, his research focuses on goal-oriented communications for control, data-driven control, and reinforcement learning.
@@ -26,6 +27,7 @@ His research interests lie at the intersection of wireless communication systems
 
 
 # 🔥 News
+
 - *2024.09*: &nbsp;🎉🎉 I joined the EURECOM as a Postdoctoral Research Fellow to conduct research in goal-oriented communications for control, data-driven control, and reinforcement learning.
 
 
@@ -79,7 +81,9 @@ His research interests lie at the intersection of wireless communication systems
 # 📝 Selected Projects 
 
 - *2020.2-2021.2* IoT PHY-MAC Design for Industrial Control Applications, Huawei
+  
 - *2021.2-2023.2*  Research and Industrialization of Intelligent Ceramic Production Line Management and Analysis Platform: Topic #2: Information and Control Systems in Industrial IoT: Design and Optimization, Foshan Government, China
+  
 - *2024.9-* 6G-GOALS, EU Consortium project  
 
 
@@ -88,36 +92,55 @@ His research interests lie at the intersection of wireless communication systems
 # 🎖 Selected Honors and Awards
 
 - *2016-2017* National Scholarship, Department of Education, China
+  
 - *2017-2018*  National Scholarship, Department of Education, China
+  
 - *2016-2017* Merit Student, Huazhong University of Science and Technology
+  
 - *2017-2018* Merit Student, Huazhong University of Science and Technology
+  
 - *2017-2018* Outstanding Student, Qiming College, Huazhong University of Science and Technology
+  
 - *2018* Outstanding Graduate, Huazhong University of Science and Technology
+  
 - *2018-2024* Ph.D. Scholarship, Hong Kong University of Science and Technology
 
 # 📝 Recent Talks 
 
 - *2024.11* Reinforcement Learning in Communications and Control, EURECOM, France.
+  
 - *2024.10* Semantic Communications for Control, WP4 Meeting, 6G-GOALS project, EURECOM, France.
+  
 - *2024.3*  Remote State Estimation and Control for IoT Systems, ECE Future Leader Seminar, HKUST, Hong Kong, China.
+  
 - *2023.12* Online Learning Algorithms for Zero-Sum Games of Linear Systems over Wireless MIMO Fading Channels with Uncountable State Space, IEEE Conference on Decision and 
             Control, Marina Bay Sands, Singapore.
 
 
 # 📖 Educations
+
 - *2014.09 - 2018.06*, B.Eng. , information and communication engineering, Huazhong University of Science and Technology
+  
 - *2018.08 - 2024.08*, Ph.D. , electronic and computer engineering, Hong Kong University of Science and Technology
 
 # 💬 Academic Service
 
 I am currently actively serving as a regular reviewer for various top-tier journals and conferences  in communications, control, and IoT. Some are listed below:
+
 - IEEE Journal on Selected Areas in Communications
+  
 - IEEE Transactions on Signal Processing
+  
 - IEEE Transactions on Communications
+  
 - IEEE Transactions on Control of Network Systems
+  
 - IEEE Internet of Things Journal
+  
 - Applied Science
+  
 - IEEE Conference on Decision and Control (CDC)
+  
 - European Control Conference (ECC)
 
 
