@@ -95,6 +95,13 @@ His research interests lie at the intersection of wireless communication systems
 - *2018* Outstanding Graduate, Huazhong University of Science and Technology
 - *2018-2024* Ph.D. Scholarship, Hong Kong University of Science and Technology
 
+# 📝 Recent Talks 
+
+- *2024.11* Reinforcement Learning in Communications and Control, EURECOM, France.
+- *2024.10* Semantic Communications for Control, WP4 Meeting, 6G-GOALS project, EURECOM, France.
+- *2024.3* Remote State Estimation and Control for IoT Systems, ECE Future Leader Seminar, HKUST, Hong Kong, China.
+
+
 
 # 📖 Educations
 - *2014.09 - 2018.06*, B.Eng. , information and communication engineering, Huazhong University of Science and Technology
