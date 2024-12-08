@@ -121,7 +121,7 @@ His research interests lie at the intersection of wireless communication systems
 
 
 # 📖 Educations
-- *2018.08 - 2024.08*, Ph.D. , electronic and computer engineering, Hong Kong University of Science and Technology <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thesis:
+- *2018.08 - 2024.08*, Ph.D. , electronic and computer engineering, Hong Kong University of Science and Technology <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Advisor: <a href='https://eeknlau.home.ece.ust.hk/HKUST-Office-HomePage/HKUST_Home.html'>Vincent K. N. Lau</a> <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thesis: Remote State Estimation and Control for IoT Systems
    
 - *2014.09 - 2018.06*, B.Eng. , information and communication engineering, Huazhong University of Science and Technology
          
