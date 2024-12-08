@@ -126,7 +126,7 @@ His research interests lie at the intersection of wireless communication systems
 - *2014.09 - 2018.06*, B.Eng. , information and communication engineering, Huazhong University of Science and Technology
          
 -123
- -234
+  -234
  
 # 💬 Academic Service
 
