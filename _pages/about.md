@@ -136,6 +136,8 @@ His research interests lie at the intersection of wireless communication systems
 I am currently actively serving as a regular reviewer for various top-tier journals and conferences  in communications, control, and IoT. Some are listed below:
 
 - IEEE Journal on Selected Areas in Communications
+
+- IEEE Transactions on Automatic Control
   
 - IEEE Transactions on Signal Processing
   
