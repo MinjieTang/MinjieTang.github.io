@@ -133,7 +133,7 @@ His research interests lie at the intersection of wireless communication systems
  
 # 💬 Academic Service
 
-I am currently actively serving as a regular reviewer for various top-tier journals and conferences  in communications, control, and IoT. Some are listed below:
+I am currently serving as a regular reviewer for various top-tier journals and conferences  in communications, control, and IoT. Some are listed below:
 
 - IEEE Journal on Selected Areas in Communications
 
