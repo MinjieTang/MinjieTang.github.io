@@ -146,6 +146,8 @@ I am currently actively serving as a regular reviewer for various top-tier journ
 - IEEE Transactions on Control of Network Systems
   
 - IEEE Internet of Things Journal
+
+- IEEE Open Journal of the Communications Society
   
 - Applied Science
   
