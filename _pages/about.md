@@ -28,6 +28,9 @@ His research interests lie at the intersection of wireless communication systems
 
 # 🔥 News
 
+
+- *2024.12*: &nbsp;🎉🎉 A conference paper "<span style="color:blue; font-style:italic;"><strong>Data-Driven Online Learning Algorithm for Optimal Linear Tracking Control Over Unreliable Wireless MIMO Fading Channels</strong> </span>" has been accepted by IEEE Wireless Communications and Networking Conference 2025 (WCNC).
+
 - *2024.09*: &nbsp;🎉🎉 I joined the EURECOM as a Postdoctoral Research Fellow to conduct research in goal-oriented communications for control, data-driven control, and reinforcement learning.
 
 
@@ -73,7 +76,12 @@ His research interests lie at the intersection of wireless communication systems
 
 # 📝 Conference Presentations 
 
-[[C1] Online Learning Algorithms for Zero-Sum Games of Linear Systems over Wireless MIMO Fading Channels with Uncountable State Space](https://ieeexplore.ieee.org/abstract/document/10383297)
+[[C1] Data-Driven Online Learning Algorithm for Optimal Linear Tracking Control Over Unreliable Wireless MIMO Fading Channels]
+
+**Minjie Tang**,  Chenyuan Feng, Tony Q. S. Quek, **IEEE Wireless Communications and Networking Conference (WCNC)**,  2025 (Accepted).
+
+
+[[C2] Online Learning Algorithms for Zero-Sum Games of Linear Systems over Wireless MIMO Fading Channels with Uncountable State Space](https://ieeexplore.ieee.org/abstract/document/10383297)
 
 **Minjie Tang**,  Vincent K. N. Lau, **IEEE Conference on Decision and Control (CDC)**,  2023.
 
