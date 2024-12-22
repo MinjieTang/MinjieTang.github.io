@@ -29,7 +29,7 @@ His research interests lie at the intersection of wireless communication systems
 # 🔥 News
 
 
-- *2024.12*: &nbsp;🎉🎉 A conference paper "<span style="color:blue; font-style:italic;"><strong>Data-Driven Online Learning Algorithm for Optimal Linear Tracking Control Over Unreliable Wireless MIMO Fading Channels</strong> </span>" has been accepted by IEEE Wireless Communications and Networking Conference 2025 (WCNC).
+- *2024.12*: &nbsp;🎉🎉 A conference paper "<u style="color: blue;">Data-Driven Online Learning Algorithm for Optimal Linear Tracking Control Over Unreliable Wireless MIMO Fading Channels</u>" has been accepted by IEEE Wireless Communications and Networking Conference 2025 (WCNC).
 
 - *2024.09*: &nbsp;🎉🎉 I joined the EURECOM as a Postdoctoral Research Fellow to conduct research in goal-oriented communications for control, data-driven control, and reinforcement learning.
 
