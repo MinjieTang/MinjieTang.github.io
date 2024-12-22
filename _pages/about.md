@@ -76,7 +76,7 @@ His research interests lie at the intersection of wireless communication systems
 
 # 📝 Conference Presentations 
 
-[[C1] Data-Driven Online Learning Algorithm for Optimal Linear Tracking Control Over Unreliable Wireless MIMO Fading Channels]
+<u style="color: blue;">[C1] Data-Driven Online Learning Algorithm for Optimal Linear Tracking Control Over Unreliable Wireless MIMO Fading Channels</u>
 
 **Minjie Tang**,  Chenyuan Feng, Tony Q. S. Quek, **IEEE Wireless Communications and Networking Conference (WCNC)**,  2025 (Accepted).
 
