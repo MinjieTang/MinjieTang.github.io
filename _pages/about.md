@@ -18,7 +18,7 @@ redirect_from:
 
 # About Me
 
-Minjie Tang is currently a Postdoctoral Research Fellow in the Communication Systems Department at <a href='https://www.eurecom.fr/'>EURECOM</a>, where he works with <a href='http://photios-stavrou.com/'>Prof. Fotios Stavrou</a> and <a href='https://scholar.google.com/citations?user=QG9iXtUAAAAJ&hl=en'>Prof. Marios Kountouris</a>. Prior to that, he obtained his Ph.D. degree in Electronic and Computer Engineering from the <a href='https://hkust.edu.hk/'>Hong Kong University of Science and Technology</a> in 2024 under the supervision of <a href='https://eeknlau.home.ece.ust.hk/HKUST-Office-HomePage/HKUST_Home.html'>Prof. Vincent K. N. Lau</a>, and B.Eng. in Information and Communication Engineering from the <a href='https://hust.edu.cn/'>Huazhong University of Science and Technology</a> in 2018.
+Minjie Tang is currently a Postdoctoral Research Fellow in the Communication Systems Department at <a href='https://www.eurecom.fr/'>EURECOM</a>, where he works with <a href='http://photios-stavrou.com/'>Prof. Photios A. Stavrou</a> and <a href='https://scholar.google.com/citations?user=QG9iXtUAAAAJ&hl=en'>Prof. Marios Kountouris</a>. Prior to that, he obtained his Ph.D. degree in Electronic and Computer Engineering from the <a href='https://hkust.edu.hk/'>Hong Kong University of Science and Technology</a> in 2024 under the supervision of <a href='https://eeknlau.home.ece.ust.hk/HKUST-Office-HomePage/HKUST_Home.html'>Prof. Vincent K. N. Lau</a>, and B.Eng. in Information and Communication Engineering from the <a href='https://hust.edu.cn/'>Huazhong University of Science and Technology</a> in 2018.
 
 His research interests lie at the intersection of wireless communication systems and control systems, encompassing areas such as networked control systems, wireless sensing, and industrial IoT. Currently, his research focuses on goal-oriented communications for control, data-driven control, and reinforcement learning.
 
@@ -28,6 +28,7 @@ His research interests lie at the intersection of wireless communication systems
 
 # 🔥 News
 
+- *2025.1*: &nbsp;🎉🎉 A conference paper "<u style="color: blue;"> CSI-Free Low-Complexity Remote State Estimation over Wireless MIMO Fading Channels using Semantic Analog Aggregation</u>" has been accepted by IEEE International Conference on Communications 2025 (ICC).
 
 - *2024.12*: &nbsp;🎉🎉 A conference paper "<u style="color: blue;">Data-Driven Online Learning Algorithm for Optimal Linear Tracking Control Over Unreliable Wireless MIMO Fading Channels</u>" has been accepted by IEEE Wireless Communications and Networking Conference 2025 (WCNC).
 
@@ -76,12 +77,16 @@ His research interests lie at the intersection of wireless communication systems
 
 # 📝 Conference Presentations 
 
-<u style="color: blue;">[C1] Data-Driven Online Learning Algorithm for Optimal Linear Tracking Control Over Unreliable Wireless MIMO Fading Channels</u>
+<u style="color: blue;">[C1] CSI-Free Low-Complexity Remote State Estimation over Wireless MIMO Fading Channels using Semantic Analog Aggregation </u>
+
+**Minjie Tang**,  Photios A. Stavrou, Marios Kountouris, **IEEE International Conference on Communications (ICC)**,  2025 (Accepted).
+
+<u style="color: blue;">[C2] Data-Driven Online Learning Algorithm for Optimal Linear Tracking Control Over Unreliable Wireless MIMO Fading Channels</u>
 
 **Minjie Tang**,  Chenyuan Feng, Tony Q. S. Quek, **IEEE Wireless Communications and Networking Conference (WCNC)**,  2025 (Accepted).
 
 
-[[C2] Online Learning Algorithms for Zero-Sum Games of Linear Systems over Wireless MIMO Fading Channels with Uncountable State Space](https://ieeexplore.ieee.org/abstract/document/10383297)
+[[C3] Online Learning Algorithms for Zero-Sum Games of Linear Systems over Wireless MIMO Fading Channels with Uncountable State Space](https://ieeexplore.ieee.org/abstract/document/10383297)
 
 **Minjie Tang**,  Vincent K. N. Lau, **IEEE Conference on Decision and Control (CDC)**,  2023.
 
