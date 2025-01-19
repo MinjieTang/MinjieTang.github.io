@@ -47,7 +47,7 @@ His research interests lie at the intersection of wireless communication systems
 
 
 
-<u style="color: blue;">[J2] Online Temperature Tracking Control for Furnace
+<u style="color: #00008B;">[J2] Online Temperature Tracking Control for Furnace
 System with Partially Nonlinear Dynamics Over
 Wireless Fading Channels: A Model-Assisted Deep
 Reinforcement Learning Approach </u>
@@ -57,7 +57,7 @@ Reinforcement Learning Approach </u>
 
 
 
-<u style="color: blue;">[J3] Decentralized Semantic Communications and Cooperative Tracking Control for a UAV Swarm over Wireless MIMO Fading Channels</u>
+<u style="color: #00008B;">[J3] Decentralized Semantic Communications and Cooperative Tracking Control for a UAV Swarm over Wireless MIMO Fading Channels</u>
 
 **Minjie Tang**, Chenyuan Feng, Tony Q. S. Quek, **Under review as a journal paper**.
 
