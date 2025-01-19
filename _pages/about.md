@@ -101,11 +101,11 @@ Reinforcement Learning Approach </u>
 
 # 📝 Conference Presentations 
 
-<u style="color: blue;">[C1] CSI-Free Low-Complexity Remote State Estimation over Wireless MIMO Fading Channels using Semantic Analog Aggregation </u>
+<u style="color: #00008B;">[C1] CSI-Free Low-Complexity Remote State Estimation over Wireless MIMO Fading Channels using Semantic Analog Aggregation </u>
 
 **Minjie Tang**,  Photios A. Stavrou, Marios Kountouris, **IEEE International Conference on Communications (ICC)**,  2025 (Accepted).
 
-<u style="color: blue;">[C2] Data-Driven Online Learning Algorithm for Optimal Linear Tracking Control Over Unreliable Wireless MIMO Fading Channels</u>
+<u style="color: #00008B;">[C2] Data-Driven Online Learning Algorithm for Optimal Linear Tracking Control Over Unreliable Wireless MIMO Fading Channels</u>
 
 **Minjie Tang**,  Chenyuan Feng, Tony Q. S. Quek, **IEEE Wireless Communications and Networking Conference (WCNC)**,  2025 (Accepted).
 
