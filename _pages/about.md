@@ -28,9 +28,9 @@ His research interests lie at the intersection of wireless communication systems
 
 # 🔥 News
 
-- *2025.1*: &nbsp;🎉🎉 A conference paper "<u style="color: blue;"> CSI-Free Low-Complexity Remote State Estimation over Wireless MIMO Fading Channels using Semantic Analog Aggregation</u>" has been accepted by IEEE International Conference on Communications 2025 (ICC).
+- *2025.1*: &nbsp;🎉🎉 A conference paper "<u style="color: #00008B;"> CSI-Free Low-Complexity Remote State Estimation over Wireless MIMO Fading Channels using Semantic Analog Aggregation</u>" has been accepted by IEEE International Conference on Communications 2025 (ICC).
 
-- *2024.12*: &nbsp;🎉🎉 A conference paper "<u style="color: blue;">Data-Driven Online Learning Algorithm for Optimal Linear Tracking Control Over Unreliable Wireless MIMO Fading Channels</u>" has been accepted by IEEE Wireless Communications and Networking Conference 2025 (WCNC).
+- *2024.12*: &nbsp;🎉🎉 A conference paper "<u style="color: #00008B;">Data-Driven Online Learning Algorithm for Optimal Linear Tracking Control Over Unreliable Wireless MIMO Fading Channels</u>" has been accepted by IEEE Wireless Communications and Networking Conference 2025 (WCNC).
 
 - *2024.09*: &nbsp;🎉🎉 I joined the EURECOM as a Postdoctoral Research Fellow to conduct research in goal-oriented communications for control, data-driven control, and reinforcement learning.
 
