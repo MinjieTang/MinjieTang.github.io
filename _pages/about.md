@@ -41,7 +41,7 @@ His research interests lie at the intersection of wireless communication systems
 
 
 
-<u style="color: blue;">[J1] Online Non-Cooperative Zero-Sum Games for Linear Systems over Wireless MIMO Fading Channels with Uncountable State Space</u>
+<u style="color: #00008B;">[J1] Online Non-Cooperative Zero-Sum Games for Linear Systems over Wireless MIMO Fading Channels with Uncountable State Space</u>
 
 **Minjie Tang**, Vincent K. N. Lau,  **Under review as a journal paper**.
 
