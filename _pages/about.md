@@ -43,7 +43,7 @@ His research interests lie at the intersection of wireless communication systems
 
 <u style="color: blue;">[J1] Online Non-Cooperative Zero-Sum Games for Linear Systems over Wireless MIMO Fading Channels with Uncountable State Space</u>
 
-**Minjie Tang**, Vincent K. N. Lau,  **Under review in IEEE Journal**.
+**Minjie Tang**, Vincent K. N. Lau,  **Under review as a journal paper**.
 
 
 
@@ -52,14 +52,14 @@ System with Partially Nonlinear Dynamics Over
 Wireless Fading Channels: A Model-Assisted Deep
 Reinforcement Learning Approach </u>
 
-**Minjie Tang**, Vincent K. N. Lau,  **Under review in IEEE Journal**.
+**Minjie Tang**, Vincent K. N. Lau,  **Under review as a journal paper**.
 
 
 
 
 <u style="color: blue;">[J3] Decentralized Semantic Communications and Cooperative Tracking Control for a UAV Swarm over Wireless MIMO Fading Channels</u>
 
-**Minjie Tang**, Chenyuan Feng, Tony Q. S. Quek, **Under review in IEEE Journal**.
+**Minjie Tang**, Chenyuan Feng, Tony Q. S. Quek, **Under review as a journal paper**.
 
 
 
