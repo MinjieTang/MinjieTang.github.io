@@ -105,7 +105,7 @@ Reinforcement Learning Approach </u>
 **Minjie Tang**,  Photios A. Stavrou, Marios Kountouris, **IEEE International Conference on Communications (ICC)**,  2025 (Accepted).
 
 
-[[C2]] Online Learning Algorithms for Zero-Sum Games of Linear Systems over Wireless MIMO Fading Channels with Uncountable State Space](https://ieeexplore.ieee.org/abstract/document/10383297)
+[[C2] Online Learning Algorithms for Zero-Sum Games of Linear Systems over Wireless MIMO Fading Channels with Uncountable State Space](https://ieeexplore.ieee.org/abstract/document/10383297)
 
 **Minjie Tang**,  Vincent K. N. Lau, **IEEE Conference on Decision and Control (CDC)**,  2023.
 
