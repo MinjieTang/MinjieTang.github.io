@@ -30,6 +30,7 @@ His research interests lie at the intersection of wireless communication systems
 
 - *2025.1*: &nbsp;🎉🎉 A conference paper "<u style="color: #00008B;"> CSI-Free Low-Complexity Remote State Estimation over Wireless MIMO Fading Channels using Semantic Analog Aggregation</u>" has been accepted by IEEE International Conference on Communications 2025 (ICC).
 
+- *2024.12*: &nbsp;🎉🎉 A conference paper "<u style="color: #00008B;"> Data-Driven Online Learning Algorithm for Optimal Linear Tracking Control Over Unreliable Wireless MIMO Fading Channels</u>" has been accepted by IEEE Wireless Communications and Networking Conference 2025 (WCNC).
 
 - *2024.09*: &nbsp;🎉🎉 I joined the EURECOM as a Postdoctoral Research Fellow to conduct research in goal-oriented communications for control, data-driven control, and reinforcement learning.
 
@@ -104,8 +105,14 @@ Reinforcement Learning Approach </u>
 
 **Minjie Tang**,  Photios A. Stavrou, Marios Kountouris, **IEEE International Conference on Communications (ICC)**,  2025 (Accepted).
 
+<u style="color: #00008B;">[C2] Data-Driven Online Learning Algorithm for Optimal Linear Tracking Control Over Unreliable Wireless MIMO Fading Channels </u>
 
-[[C2] Online Learning Algorithms for Zero-Sum Games of Linear Systems over Wireless MIMO Fading Channels with Uncountable State Space](https://ieeexplore.ieee.org/abstract/document/10383297)
+**Minjie Tang**,  Chenyuan Feng, Tony Q. S. Quek, **IEEE Wireless Communications and Networking Conference  (WCNC)**,  2025 (Accepted).
+
+
+
+
+[[C3] Online Learning Algorithms for Zero-Sum Games of Linear Systems over Wireless MIMO Fading Channels with Uncountable State Space](https://ieeexplore.ieee.org/abstract/document/10383297)
 
 **Minjie Tang**,  Vincent K. N. Lau, **IEEE Conference on Decision and Control (CDC)**,  2023.
 
