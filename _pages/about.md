@@ -149,6 +149,8 @@ Reinforcement Learning Approach </u>
 
 # 📝 Recent Talks 
 
+- *2025.2* Semantic Communications for Control, WP4 Meeting, 6G-GOALS project, EURECOM, France.
+
 - *2024.11* Reinforcement Learning in Communications and Control, EURECOM, France.
   
 - *2024.10* Semantic Communications for Control, WP4 Meeting, 6G-GOALS project, EURECOM, France.
@@ -191,6 +193,8 @@ I am currently serving as a regular reviewer for various top-tier journals and c
 - Applied Science
   
 - IEEE Conference on Decision and Control (CDC)
+
+- IEEE International Symposium on Information Theory (ISIT)
   
 - European Control Conference (ECC)
 
