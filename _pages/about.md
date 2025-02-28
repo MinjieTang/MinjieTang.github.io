@@ -149,8 +149,6 @@ Reinforcement Learning Approach </u>
 
 # 📝 Recent Talks 
 
-- *2025.2* Semantic Communications for Control, WP4 Meeting, 6G-GOALS project, EURECOM, France.
-
 - *2024.11* Reinforcement Learning in Communications and Control, EURECOM, France.
   
 - *2024.10* Semantic Communications for Control, WP4 Meeting, 6G-GOALS project, EURECOM, France.
