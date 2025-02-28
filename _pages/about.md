@@ -187,8 +187,7 @@ I am currently serving as a regular reviewer for various top-tier journals and c
 - IEEE Internet of Things Journal
 
 - IEEE Open Journal of the Communications Society
-  
-- Applied Science
+
   
 - IEEE Conference on Decision and Control (CDC)
 
