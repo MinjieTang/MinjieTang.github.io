@@ -38,70 +38,45 @@ His research interests lie at the intersection of wireless communication systems
 
 # 📝 Journal Publications 
 
-
-
-
-<u style="color: #00008B;">[J1] Online Non-Cooperative Zero-Sum Games for Linear Systems over Wireless MIMO Fading Channels with Uncountable State Space</u>
-
-**Minjie Tang**, Vincent K. N. Lau,  **Under review as a journal paper**.
-
-
-
-<u style="color: #00008B;">[J2] Online Temperature Tracking Control for Furnace
-System with Partially Nonlinear Dynamics Over
-Wireless Fading Channels: A Model-Assisted Deep
-Reinforcement Learning Approach </u>
-
-**Minjie Tang**, Vincent K. N. Lau,  **Under review as a journal paper**.
-
-
-
-
-<u style="color: #00008B;">[J3] Decentralized Semantic Communications and Cooperative Tracking Control for a UAV Swarm over Wireless MIMO Fading Channels</u>
-
-**Minjie Tang**, Chenyuan Feng, Tony Q. S. Quek, **Under review as a journal paper**.
-
-
-
-[[J4] Online Identification and Temperature Tracking Control for Furnace System With a Single Slab and a Single Heater Over the Wirelessly-Connected IoT Controller](https://ieeexplore.ieee.org/abstract/document/10239511)
+[[J7] Online Identification and Temperature Tracking Control for Furnace System With a Single Slab and a Single Heater Over the Wirelessly-Connected IoT Controller](https://ieeexplore.ieee.org/abstract/document/10239511)
 
 **Minjie Tang**, Vincent K. N. Lau, **IEEE Internet of Things Journal**, vol. 11, no. 4, pp. 6730-6747, 2024.
 
 
-[[J5] Online System Identification and Control for Linear Systems With Multi-Agent Controllers Over Wireless Interference Channels](https://ieeexplore.ieee.org/abstract/document/9998988)
+[[J6] Online System Identification and Control for Linear Systems With Multi-Agent Controllers Over Wireless Interference Channels](https://ieeexplore.ieee.org/abstract/document/9998988)
 
 **Minjie Tang**, Songfu Cai, Vincent K. N. Lau, **IEEE Transactions on Automatic Control (Full Paper)**, vol. 68, no. 30, pp. 6020-6035, 2023.
 
 
-[[J6] Online System Identification and Optimal Control for Mission-critical IoT Systems over MIMO Fading Channels](https://ieeexplore.ieee.org/abstract/document/9777769)
+[[J5] Online System Identification and Optimal Control for Mission-critical IoT Systems over MIMO Fading Channels](https://ieeexplore.ieee.org/abstract/document/9777769)
 
 **Minjie Tang**, Songfu Cai, Vincent K. N. Lau, **IEEE Internet of Things Journal**, vol. 9, no. 21, pp. 21157-21173, 2022.
 
 
 
-[[J7] Radix-Partition-Based Over-the-Air Aggregation and Low-Complexity State Estimation for IoT Systems Over Wireless Fading Channels](https://ieeexplore.ieee.org/abstract/document/9735326)
+[[J4] Radix-Partition-Based Over-the-Air Aggregation and Low-Complexity State Estimation for IoT Systems Over Wireless Fading Channels](https://ieeexplore.ieee.org/abstract/document/9735326)
 
 **Minjie Tang**, Songfu Cai, Vincent K. N. Lau, **IEEE Transactions on Signal Processing**, vol. 70, pp. 1464-1477, 2022.
 
 
-[[J8] Decentralized Event-Triggered Scheduling and Control for Multi-Agent Linear Systems over Wireless Interference Channels](https://ieeexplore.ieee.org/abstract/document/9720089)
+[[J3] Decentralized Event-Triggered Scheduling and Control for Multi-Agent Linear Systems over Wireless Interference Channels](https://ieeexplore.ieee.org/abstract/document/9720089)
 
 **Minjie Tang**, Vincent K. N. Lau, **IEEE Transactions on Control of Network Systems**, vol. 9, no. 3, pp. 1348-1361, 2022.
 
 
-[[J9] Over-the-air aggregation with multiple shared channels and graph-based state estimation for industrial IoT systems](https://ieeexplore.ieee.org/abstract/document/9395697)
+[[J2] Over-the-air aggregation with multiple shared channels and graph-based state estimation for industrial IoT systems](https://ieeexplore.ieee.org/abstract/document/9395697)
 
 **Minjie Tang**, Songfu Cai, Vincent K. N. Lau, **IEEE Internet of Things Journal**, vol. 8, no. 19, pp. 14638-14657, 2021.
 
 
-[[J10] Remote State Estimation With Asynchronous Mission-Critical IoT Sensors](https://ieeexplore.ieee.org/abstract/document/9174850)
+[[J1] Remote State Estimation With Asynchronous Mission-Critical IoT Sensors](https://ieeexplore.ieee.org/abstract/document/9174850)
 
 **Minjie Tang**, Songfu Cai, Vincent K. N. Lau, **IEEE Journal on Selected Areas in Communications**, vol. 39, no. 3, pp. 835-850, 2021.
 
 
 # 📝 Conference Presentations 
 
-<u style="color: #00008B;">[C1] CSI-Free Low-Complexity Remote State Estimation over Wireless MIMO Fading Channels using Semantic Analog Aggregation </u>
+<u style="color: #00008B;">[C3] CSI-Free Low-Complexity Remote State Estimation over Wireless MIMO Fading Channels using Semantic Analog Aggregation </u>
 
 **Minjie Tang**,  Photios A. Stavrou, Marios Kountouris, **IEEE International Conference on Communications (ICC)**,  2025 (Accepted).
 
@@ -112,7 +87,7 @@ Reinforcement Learning Approach </u>
 
 
 
-[[C3] Online Learning Algorithms for Zero-Sum Games of Linear Systems over Wireless MIMO Fading Channels with Uncountable State Space](https://ieeexplore.ieee.org/abstract/document/10383297)
+[[C1] Online Learning Algorithms for Zero-Sum Games of Linear Systems over Wireless MIMO Fading Channels with Uncountable State Space](https://ieeexplore.ieee.org/abstract/document/10383297)
 
 **Minjie Tang**,  Vincent K. N. Lau, **IEEE Conference on Decision and Control (CDC)**,  2023.
 
