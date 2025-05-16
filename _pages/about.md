@@ -163,6 +163,7 @@ I am currently serving as a regular reviewer for various top-tier journals and c
 
 - IEEE Open Journal of the Communications Society
 
+- IEEE Control Systems Letters
   
 - IEEE Conference on Decision and Control (CDC)
 
