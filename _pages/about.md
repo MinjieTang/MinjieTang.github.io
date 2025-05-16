@@ -80,7 +80,7 @@ His research interests lie at the intersection of wireless communication systems
 
 **Minjie Tang**,  Photios A. Stavrou, Marios Kountouris, **IEEE International Conference on Communications (ICC)**,  2025 (Accepted).
 
-<u style="color: #00008B;">[C2] Data-Driven Online Learning Algorithm for Optimal Linear Tracking Control Over Unreliable Wireless MIMO Fading Channels </u>
+[[C2] Data-Driven Online Learning Algorithm for Optimal Linear Tracking Control Over Unreliable Wireless MIMO Fading Channels] (https://ieeexplore.ieee.org/abstract/document/10978127)
 
 **Minjie Tang**,  Chenyuan Feng, Tony Q. S. Quek, **IEEE Wireless Communications and Networking Conference  (WCNC)**,  2025 (Accepted).
 
